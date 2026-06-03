@@ -26,12 +26,12 @@ const courses = [
     image: BAKING_CLASS_IMG,
     description: "A comprehensive professional program covering the full spectrum of baking and pastry arts. Students master artisan bread production, laminated doughs, cake design, sugar work, and advanced pastry techniques under the guidance of experienced instructors.",
     modules: [
-      "Artisan Bread & Sourdough",
-      "Viennoiserie & Laminated Doughs",
-      "Cake Design & Sugar Craft",
-      "Pastry Fundamentals",
-      "Food Science & Nutrition",
-      "Business of Baking",
+      "Cake Design, Assembling & Frosting",
+      "Artisan Bread & Yeast Doughs",
+      "Pastry Fundamentals & Tarts",
+      "Cookies & Confectionery",
+      "Deep-Fried Pastries & Batters",
+      
     ],
     outcomes: ["Diploma in Professional Baking", "Industry Placement", "Career Support"],
   },
